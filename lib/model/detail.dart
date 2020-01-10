@@ -6,7 +6,7 @@ class Detail extends StatelessWidget {
   final String title = 'FOOD';
   final String description =
   '''
- cobacobacoabcaocbocacoacbaocabcoacaicbaocabcabcoacbaoci
+ Daging sapi adalah daging ketiga yang paling banyak dikonsumsi di dunia, terhitung sekitar 25% dari produksi daging di seluruh dunia, setelah daging babi dan unggas masing-masing 38% dan 30%. [5] Dalam jumlah absolut, Amerika Serikat, Brasil , dan Republik Rakyat Tiongkok adalah tiga konsumen daging sapi terbesar di dunia; Uruguay, bagaimanapun, memiliki konsumsi daging sapi dan daging sapi tertinggi per kapita, diikuti oleh Argentina dan Brasil.
   ''';
 
   @override
